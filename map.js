@@ -1,1 +1,1 @@
-document.getElementById('Map').innerHTML = "Map" ;
+document.getElementById('Map').innerHTML = "Map";
