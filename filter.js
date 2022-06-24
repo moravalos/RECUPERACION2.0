@@ -1,1 +1,1 @@
-document.getElementById('Filter').innerHTML = "Filter" ;
+document.getElementById('filter').innerHTML = "filter" ;
