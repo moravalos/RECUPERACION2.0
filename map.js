@@ -1,1 +1,0 @@
-document.getElementById('Map').innerHTML = "Map" ;
